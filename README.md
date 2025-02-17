@@ -4,14 +4,6 @@ Luis Nicanor Gutiérrez
 Pruebas de software y aseguramiento de la calidad (Gpo 10)
 
 ## Objetivos
-2.7 Explicar la diferencia entre pruebas dinámicas y pruebas estáticas
-
-2.8 Describir los beneficios e impacto de la calidad de las prácticas asociadas a pruebas estáticas.
-
-2.9 Explicar el origen de las inspecciones como herramienta de pruebas estáticas.
-
-2.10 Describir las diferencias entre revisiones informales, caminatas estructuradas, inspecciones e inspecciones automáticas.
-
 2.18 Explicar los fundamentos del desarrollo de pruebas unitarias 
 
 2.19 Desarrollar pruebas unitarias para fragmentos de programas usando las mejores prácticas recomendadas.
